@@ -1,1 +1,1 @@
-![계획](study/image.png)
+![계획](image/image.png)
